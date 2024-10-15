@@ -1,0 +1,40 @@
+.PhoneInputInput {
+    background-color: transparent !important; 
+    border: none !important; 
+    color: white !important; 
+    outline: none !important; 
+}
+
+.PhoneInputInput:focus {
+    outline: none !important; 
+    box-shadow: none !important; 
+}
+
+.PhoneInputCountry {
+    background-color: transparent !important; 
+    border: none !important; 
+    color: white !important; 
+}
+
+.PhoneInputCountryIcon {
+    box-shadow: none !important; 
+}
+
+.PhoneInputCountrySelect {
+    background-color: white !important; 
+    color: black !important; 
+}
+
+.PhoneInputCountrySelect:focus {
+    outline: none !important;
+    box-shadow: none !important;
+    border: none !important; 
+}
+
+.PhoneInputCountrySelect option {
+    color: black !important; 
+}
+
+.PhoneInputCountrySelectArrow {
+    border: none !important;
+}
