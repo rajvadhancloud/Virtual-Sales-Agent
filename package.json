@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-say": "^2.1.0",
+    "react-text-to-speech": "^0.19.5"
+  }
+}
